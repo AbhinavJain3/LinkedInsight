@@ -20,7 +20,7 @@ This project is a Generative AI (GenAI) application designed to automatically cr
 - **Natural Language Processing (NLP)**: Tag generation and template matching.
 - **LLM Integration**: Generating LinkedIn posts from structured data.
 
-Sample Output
+#### Sample Output
 The generated LinkedIn post might look like this:
 
 ```bash
